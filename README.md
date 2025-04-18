@@ -26,8 +26,4 @@ Here are some of my GitHub stats:
 - **Followers:** 1  
 - **Following:** 3  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatSuvrat&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-## Connect with Me
-
-{}
+<img src="https://github-readme-stats.vercel.app/api?username=thatSuvrat&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="thatSuvrat's GitHub Stats" />
