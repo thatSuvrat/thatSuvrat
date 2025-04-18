@@ -1,10 +1,9 @@
-## Helloo :3
+## Hellowo :3
 
-I'm **Sub**
-
+I'm sub
 I like to code UwU
 
-## Skills & Technologies
+## things i know OwO
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,rust,py,js,c,react,firebase,bash&perline=8)](https://skillicons.dev)
 
