@@ -6,11 +6,7 @@ I like to code UwU
 
 ## Skills & Technologies
 
-tensorflow,sklearn,rust,py,js,c,react,firebase,bash
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share. Stay tuned!
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,rust,py,js,c,react,firebase,bash&perline=8)](https://skillicons.dev)
 
 ## Certifications
 
